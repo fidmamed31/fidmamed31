@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fidmamed31
 - 👀 I’m interested in web developement (mern stack) and mobile app(flutter)
-- 🌱 I’m currently learning laravel react.js and flutter
+- 🌱 I’m currently learning node react.js and flutter
 - 💞️ I’m looking to collaborate on react projects
 - 📫 How to reach me email: m.fidma@esi-sba.dz
 
